@@ -3,9 +3,9 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [C:\PROJECTS\DART\DART_PROJECTS
+    "configurations": [
         {
-            "name": "Dart & Flutter",
+            "name": "C:\Users\Mina Ekeya\Desktop\dart projects\dart\DART_PROJECTS",
             "request": "launch",
             "type": "dart"
         }
